@@ -1,0 +1,12 @@
+header {
+    color:white;
+    background-color: #3399cc;
+    padding: 1px 35px;
+    font-size: 25px;
+    /* font-family: "century gothic" ; */
+}
+#title{
+    font-family: "Century Gothic";
+    font-weight: 100;
+    font-size: 60px;
+}

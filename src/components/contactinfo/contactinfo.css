@@ -1,0 +1,83 @@
+.singleContact:hover {
+    background-color: #cee7f2;
+    cursor: pointer;
+}
+.contactInfo {
+    width: 540px;
+    margin-left: 275px;
+    margin-top: -20px;
+    /* display: none; */
+}
+.nameBar {
+    display: flex;
+    justify-content: space-between;
+}
+.center {
+    display: flex;
+    flex-direction: column;
+    margin-top:3px;
+}
+.modifyBar {
+    width: 170px;
+    display: flex;
+    justify-content: space-between;
+    margin-top:30px;
+}
+.modify {
+    display: flex;
+    align-items: flex-end;
+}
+.modify:hover {
+    cursor: pointer;
+}
+#editIcon{
+    margin-top: 0px;
+}
+.btn {
+    margin-left: 5px;
+    margin-block-start: -25px;
+}
+.editSymbol {  
+    width: 20px;
+    height: 20px;
+    margin-block-start: 3px;
+}
+.deleteSymbol {
+    width: 20px;
+    height: 20px;
+    margin-block-start: -25px; 
+}
+.sameline {
+    display: flex;
+    font-size: 17px;
+}
+.content {
+    font-size: 20px;
+}
+#detailedName{
+    font-weight: 400;
+}
+.details{
+    margin-top:-27px;
+}
+#mobile-landline{
+    padding:0px;
+}
+#mobdiv{
+    margin-bottom: -10px;
+}
+#landlinediv{
+    margin-top:-30px;
+}
+.infer{
+    padding: 3px;
+}
+#webdiv{
+    margin-top: -20px;
+}
+#addressdiv{
+    margin-top:-20px;
+}
+#maildiv{
+    margin-bottom: -17px;
+}

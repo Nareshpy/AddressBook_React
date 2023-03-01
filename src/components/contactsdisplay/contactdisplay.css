@@ -1,0 +1,6 @@
+#contacts-display {
+    display: flex;
+    padding: 20px;
+    color: rgb(83, 83, 83);
+    text-shadow: 0px 0px 1px;
+}

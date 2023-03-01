@@ -1,0 +1,51 @@
+.navigation{
+    margin-top: 0px;
+    background-color:black;
+    opacity: 0.8;
+    display:flex;
+    height: 55px;
+    align-items: center;
+    padding-left:24px;
+    justify-content:space-between;
+  }
+  .navigationitem{
+    color:white;
+  }
+  .navlinks{
+    display: flex;
+    gap:32px;
+    margin-left: 10px;
+    cursor: pointer;
+
+  }
+  #addBtn{
+    margin-top: 1px;
+    font-size: 25px;
+    font-weight:400;
+    text-decoration: none;
+    color:white;
+    background-color: black;
+  }
+  .blogimage{
+    margin-right: 25px;
+    height: 40px;
+  }
+  img{
+    height:40px;
+  }
+  .navigationitem:hover,#addBtn:hover{
+    background-color: #f89502;
+    border-color: white;
+    color: black;
+    cursor: pointer;
+    font-weight: bolder;
+}
+#home{
+  font-size: 25px;
+  font-weight:400;
+}
+#home:hover{
+  color:black;
+  font-weight:700;
+  text-decoration: none;
+}

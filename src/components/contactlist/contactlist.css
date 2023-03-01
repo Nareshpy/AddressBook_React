@@ -1,0 +1,14 @@
+.allContacts {
+    width: 420px;
+}
+.singleContact {
+    border-width: 0.5px;
+    border-color: #d0d0d0;
+    border-style: solid;
+    padding: 5px 10px;
+    width:550px;
+}
+.singleContact:hover {
+    background-color: #cee7f2;
+    cursor: pointer;
+}
